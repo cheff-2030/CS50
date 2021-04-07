@@ -1,7 +1,10 @@
 # CS50
 CS50 Coursework
+
 Contains homework and lab assignments for the CS50 course. 
+
 Includes the following files, in order of complexity and with key concept indicated:
+
   1. hello.c
      - Requests a name from the user and prints text greeting the user.
      - printf
