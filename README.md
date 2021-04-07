@@ -31,4 +31,4 @@ Includes the following files, in order of complexity and with key concept indica
   8. substitution.c
      - Takes a 26 alphabetical character key as an input, then requests a plaintext phrase from the user and outputs ciphertext using the input key to change    
        letters. Includes error messages and codes if the user's input does not match the expected format and guidelines.
-     - Functions
+     - Functions, Arrays
