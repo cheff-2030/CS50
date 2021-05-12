@@ -32,3 +32,6 @@ Includes the following files, in order of complexity and with key concept indica
      - Takes a 26 alphabetical character key as an input, then requests a plaintext phrase from the user and outputs ciphertext using the input key to change    
        letters. Includes error messages and codes if the user's input does not match the expected format and guidelines.
      - Functions, Arrays
+  9. plurality.c
+     - Takes up to 9 "candidate names" as input, then asks the user for the number of "voters" and asks each voter to vote for a candidate, before finally printing        the name of the candidate with the most votes. Includes error messages if a voter enters a name that does not match a candidate.
+     - Structures, Functions, Arrays
